@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01_OOP",
+    "\\01_OOP\\T1",
+    "\\01_OOP\\T1\\DN_1.1_Jorge_DeLara_v1.0"
   ],
-  "SelectedNode": "\\OOP.ConsoleExample.sln",
+  "SelectedNode": "\\01_OOP\\T1\\DN_1.1_Jorge_DeLara_v1.0",
   "PreviewInSolutionExplorer": false
 }
