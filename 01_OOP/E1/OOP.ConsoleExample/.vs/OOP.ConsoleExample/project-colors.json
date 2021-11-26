@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32c8aec0-e3bf-48f2-8290-c7874290f7e9": {
+      "ProjectGuid": "32c8aec0-e3bf-48f2-8290-c7874290f7e9",
+      "DisplayName": "OOP.ConsoleExample",
+      "ColorIndex": 0
+    },
+    "52e7da7f-d742-4823-a75d-9cbfed9174b0": {
+      "ProjectGuid": "52e7da7f-d742-4823-a75d-9cbfed9174b0",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
