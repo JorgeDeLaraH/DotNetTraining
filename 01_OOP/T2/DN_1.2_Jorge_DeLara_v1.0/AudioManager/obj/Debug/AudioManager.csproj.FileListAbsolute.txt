@@ -48,3 +48,14 @@ C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T1\DN_1.1_Jorge_DeLara_v1.1\Au
 C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T1\DN_1.1_Jorge_DeLara_v1.1\AudioManager\obj\Debug\AudioManager.csproj.CopyComplete
 C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T1\DN_1.1_Jorge_DeLara_v1.1\AudioManager\obj\Debug\AudioManager.dll
 C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T1\DN_1.1_Jorge_DeLara_v1.1\AudioManager\obj\Debug\AudioManager.pdb
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\Resources\airplane.wav
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\Resources\bus.wav
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\Resources\train.wav
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\obj\Debug\AudioManager.csproj.CopyComplete
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\obj\Debug\AudioManager.pdb
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\Vehicle.cs
+C:\Users\Mento\source\repos\DotNetTraining\01_OOP\T2\DN_1.2_Jorge_DeLara_v1.0\AudioManager\bin\Debug\Resources\car.wav
